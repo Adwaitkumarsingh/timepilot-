@@ -1,2 +1,2 @@
-# timepilot-
-Just for Hackathon
+#Moon Explorer
+Just a website dummy
